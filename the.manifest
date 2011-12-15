@@ -1,7 +1,11 @@
 CACHE MANIFEST
-# v0.1
+# ver 0.2
 favicon.ico
 zerolab.png
 dan_braghis_bg.jpg
-js/jquery152.min.js
+js/jquery.min.js
 js/jquery.backstretch.min.js
+
+NETWORK:
+http://mint.zerolab.org
+http://www.google-analytics.com
